@@ -1,0 +1,22 @@
+.navdiv{
+	height: 500px;
+	background: #f5f5f5;
+
+}.Divaboutme{
+	float: left;
+	margin: 100px;
+	width: 2500px;
+	height: 2000px;
+	background:#61b5ff;
+	}
+.Infoheader{
+	color:#f5f5f5;
+	margin-left:100px;
+	font-size: 150px
+}
+.Navlogo{
+	height:100px;
+	width: 100px;
+	background:#f5f5f5;
+}
+
